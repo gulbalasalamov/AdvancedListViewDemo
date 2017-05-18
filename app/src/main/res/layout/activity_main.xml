@@ -17,6 +17,5 @@
         android:fastScrollEnabled="true"
         android:persistentDrawingCache="scrolling"
         android:scrollingCache="false"
-        android:smoothScrollbar="true">
-    </ListView>
+        android:smoothScrollbar="true" />
 </RelativeLayout>

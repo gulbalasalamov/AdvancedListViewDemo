@@ -1,7 +1,7 @@
 package com.example.gulbala.advancedlistviewdemo;
 
 /**
- * Created by gulbala on 7/2/16.
+ * Created by Gulbala on 18.05.2017
  * Model Sınıf. Nesneye yönelik programlamada verileri temsil etmek icin olustururuz.
  */
 public class ListUrun {
